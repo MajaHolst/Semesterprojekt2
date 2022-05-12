@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32126.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EKG_semesterprojekt", "EKG_semesterprojekt\EKG_semesterprojekt.csproj", "{8C9B7DEF-6CEB-465D-977D-DB6E31A25B56}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "..\..\Downloads\EKG_semesterprojekt\EKG_semesterprojekt\ClassLibrary1\ClassLibrary1.csproj", "{3755C169-1352-4832-9743-F226DE4E1B79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{3755C169-1352-4832-9743-F226DE4E1B79}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EKGData", "..\..\Downloads\EKG_semesterprojekt\EKG_semesterprojekt\EKGData\EKGData.csproj", "{832A3595-ABF0-49C1-8521-003A303EFDCC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic_tier", "Logic_tier\Logic_tier.csproj", "{A8E2EA49-BB47-4EF5-A897-E5F90E12119D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic_tier", "..\..\Downloads\EKG_semesterprojekt\EKG_semesterprojekt\Logic_tier\Logic_tier.csproj", "{A8E2EA49-BB47-4EF5-A897-E5F90E12119D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,14 +15,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8C9B7DEF-6CEB-465D-977D-DB6E31A25B56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8C9B7DEF-6CEB-465D-977D-DB6E31A25B56}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8C9B7DEF-6CEB-465D-977D-DB6E31A25B56}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8C9B7DEF-6CEB-465D-977D-DB6E31A25B56}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3755C169-1352-4832-9743-F226DE4E1B79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3755C169-1352-4832-9743-F226DE4E1B79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3755C169-1352-4832-9743-F226DE4E1B79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3755C169-1352-4832-9743-F226DE4E1B79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{832A3595-ABF0-49C1-8521-003A303EFDCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{832A3595-ABF0-49C1-8521-003A303EFDCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{832A3595-ABF0-49C1-8521-003A303EFDCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{832A3595-ABF0-49C1-8521-003A303EFDCC}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A8E2EA49-BB47-4EF5-A897-E5F90E12119D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A8E2EA49-BB47-4EF5-A897-E5F90E12119D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8E2EA49-BB47-4EF5-A897-E5F90E12119D}.Release|Any CPU.ActiveCfg = Release|Any CPU
